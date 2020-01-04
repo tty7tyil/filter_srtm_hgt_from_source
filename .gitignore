@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+
+# vim temp file
+.*.swp
+
+# vim undo file
+*.un~
+
+# user files
+filtered/
+source/
+
